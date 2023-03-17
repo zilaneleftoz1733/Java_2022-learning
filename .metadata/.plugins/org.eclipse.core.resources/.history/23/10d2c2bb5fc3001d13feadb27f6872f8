@@ -1,0 +1,11 @@
+package oop1;
+
+public class Product {
+
+	String name;
+	//camelcase
+	double unitPrice;
+	double discount;
+	String imageUrl;
+	int unitInStock;
+}
